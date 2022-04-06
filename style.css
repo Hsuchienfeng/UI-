@@ -1,0 +1,30 @@
+div{
+	width: 300px;
+	border: 1px solid black;
+}	
+p{
+	font-size: 16px;
+	font-family:微軟正黑體;
+	background-color: #ccc;
+	color: #fff;
+	text-align: center;
+	line-height: 2;
+	margin: 0;
+}
+.color1{
+	background-color: #ACDBC9;
+}
+.color2{
+	background-color: #DBEBC2;
+}
+.color3{
+	background-color: #FDD285;
+}
+.color4{
+	background-color: #F7A7A6;
+}
+.color5{
+	background-color: #F48894;
+	height: 200px;
+}
+

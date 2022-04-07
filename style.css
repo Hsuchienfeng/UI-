@@ -1,8 +1,13 @@
-div{
-	width: 300px;
-	border: 1px solid black;
+.colorpalette{
+	box-shadow: 5px 5px 20px rbga(0,0,0,0,5);
+	width: 400px;
+	/* height:400px;*/
+	background-color: #ccc;
+	border: 2px solid #000;
+	padding: 50px;
+	margin: 50px;
 }	
-p{
+.colorPalette .color{
 	font-size: 16px;
 	font-family:微軟正黑體;
 	background-color: #ccc;
@@ -11,20 +16,23 @@ p{
 	line-height: 2;
 	margin: 0;
 }
-.color1{
+.color.color1{
 	background-color: #ACDBC9;
 }
-.color2{
+.color.color2{
 	background-color: #DBEBC2;
 }
-.color3{
+.color.color3{
 	background-color: #FDD285;
 }
-.color4{
+.color.color4{
 	background-color: #F7A7A6;
 }
-.color5{
+.color.color5{
 	background-color: #F48894;
 	height: 200px;
 }
 
+#colorGreen{
+	height: 60px;
+}
